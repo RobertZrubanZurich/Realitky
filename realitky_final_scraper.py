@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 import pyodbc
 from datetime import datetime
 
-
+##### just a comment ######
 pp = pprint.PrettyPrinter(indent=4)
 ALL_data = {}  
 df = pd.DataFrame()
