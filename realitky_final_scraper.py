@@ -16,6 +16,8 @@ import pyodbc
 from datetime import datetime
 
 ##### just a comment ######
+
+whatever = ['wqe', 'wqewqeqw']
 pp = pprint.PrettyPrinter(indent=4)
 ALL_data = {}  
 df = pd.DataFrame()
